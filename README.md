@@ -1,4 +1,4 @@
-🐝 # Bees Project
+🐝  **Bees Project**
 
 📖 **Overview**
 
